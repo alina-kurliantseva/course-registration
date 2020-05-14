@@ -1,0 +1,11 @@
+<?php
+    require_once("functions.php");
+    require_once("new_config.php");
+    require_once("database.php");
+    require_once("db_object.php");
+    require_once("session.php");
+    require_once("student.php");
+    require_once("semester.php");
+    require_once("course.php");
+    require_once("course_offer.php");
+    require_once("registration.php");
